@@ -24,9 +24,5 @@ char *create_array(unsigned int size, char c)
 	{
 		p[i] = c;
 	}
-<<<<<<< HEAD
-	return (p)
-=======
 	return (p);
 }
->>>>>>> 3b7e8089eb778d5c877f8f9830a5ada050b919e4
